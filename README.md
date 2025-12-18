@@ -1,6 +1,6 @@
 <h1 align="center">Hola 👋  soy Jesus Alberto Salas Soto 👋 </h1> 
 
-<p align="left">
+<p align="left"> 
 <a href="https://www.linkedin.com/in/jesus-alberto-salas-soto/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Jesus Salas"/></a>
   </p>
 <br>
